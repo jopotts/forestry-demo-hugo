@@ -19,3 +19,5 @@ Grady received his Ph.D in Mechanical Engineering from Stanford in 1978, and has
 Nulla vitae elit libero, a pharetra augue. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nullam quis risus eget urna mollis ornare vel eu leo. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
 
 With a draft change!
+
+![](/uploads/2017/11/13/biotech.png)
